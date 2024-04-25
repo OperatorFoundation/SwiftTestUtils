@@ -4,7 +4,7 @@ This library contains utility functions and classes used to assist in Swift test
 
 ## TestStrings
 
-This class is used to store and retreive sensetive strings such as keys, passwords and IP addresses in a .json file outside of your project so that you no longer have to scour through your code to remove hard-coded personal details before pushing to Git.
+This class is used to store and retrieve sensitive strings such as keys, passwords and IP addresses in a .json file outside of your project so that you no longer have to scour through your code to remove hard-coded personal details before pushing to Git.
 
 ### Usage
 
